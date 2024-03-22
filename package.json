@@ -1,0 +1,25 @@
+{
+  "name": "react_architect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaviarasan2720/React_architect.git#kavi_development"
+  },
+  "keywords": [
+    "Kavi@2720"
+  ],
+  "author": "Kavi_Arasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaviarasan2720/React_architect/issues"
+  },
+  "homepage": "https://github.com/kaviarasan2720/React_architect/tree/kavi_development#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
